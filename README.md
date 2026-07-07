@@ -4,7 +4,7 @@
 
 I started [Wooble](https://wooble.org) after seeing hiring from both sides — students desperate to prove ability, employers drowning in résumés that say almost nothing. We built India's first proof-of-work hiring marketplace: real company briefs, hackathons, expert-reviewed portfolios, and hiring on demonstrated work.
 
-📍 Bhubaneswar · 🌐 [akashjaiswal.com](https://akashjaiswal.com)
+📍 Bhubaneswar · 🌐 [wooble.org](https://wooble.org)
 
 ---
 
@@ -48,8 +48,8 @@ A three-sided marketplace — **students**, **companies**, and **domain reviewer
 
 ---
 
-[![Website](https://img.shields.io/badge/website-akashjaiswal.com-0052ff?style=flat-square)](https://akashjaiswal.com)
-[![Wooble](https://img.shields.io/badge/Wooble-wooble.org-f59e0b?style=flat-square)](https://wooble.org)
+[![Wooble](https://img.shields.io/badge/website-wooble.org-0052ff?style=flat-square)](https://wooble.org)
+[![Personal site](https://img.shields.io/badge/site-akashjaiswal.com-f59e0b?style=flat-square)](https://akashjaiswal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-jaiswal-wooble)
 
 <sub>From a 3-intern incubation-centre startup to PAN India. Still shipping.</sub>
