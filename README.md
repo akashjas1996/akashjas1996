@@ -1,4 +1,4 @@
-![Akaash Jaiswal — Founder & CEO, Wooble](./banner.png)
+![Akaash Jaiswal — Founder & CEO, Wooble](./banner.svg)
 
 ### Betting on skills at the workplace
 
