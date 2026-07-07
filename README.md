@@ -1,7 +1,8 @@
-# Akaash Jaiswal
+![Akaash Jaiswal — Founder & CEO, Wooble](./banner.png)
 
-**Founder & CEO, [Wooble](https://wooble.org)** — India's proof-of-work hiring marketplace.  
-We replace résumés with real briefs, hackathons, and verified portfolios.
+### Betting on skills at the workplace
+
+I started [Wooble](https://wooble.org) after seeing hiring from both sides — students desperate to prove ability, employers drowning in résumés that say almost nothing. We built India's first proof-of-work hiring marketplace: real company briefs, hackathons, expert-reviewed portfolios, and hiring on demonstrated work.
 
 📍 Bhubaneswar · 🌐 [akashjaiswal.com](https://akashjaiswal.com)
 
@@ -14,31 +15,41 @@ We replace résumés with real briefs, hackathons, and verified portfolios.
 | **Candidates** | 2.24L+ registered builders |
 | **Companies** | 200+ hiring partners |
 | **Placements** | 5,877+ facilitated |
-| **Reach** | MoU with BPUT — 150+ affiliated colleges |
+| **Campus reach** | MoU with BPUT — 150+ affiliated colleges |
+| **ARR** | Rs. 7 Cr+ run rate |
 
 ---
 
-### Recognition
+### Featured in
+
+**Hindustan Times Brunch** · **The Times of India** · Outlook India · Fox Story · GlantorX
+
+---
+
+### Founder recognition
 
 - Outlook India — **15 Youngest Entrepreneurs to Watch** (2022)
 - Fox Story — **100 Emerging Entrepreneurs** (2023)
 - GlantorX — **100 Future Leaders** (2023)
-- Backed by **Startup India**, **MeitY Startup Hub**, **Google for Startups**, **STPI**, **Startup Odisha**
+
+**Ecosystem:** Startup India · MeitY Startup Hub · Google for Startups · STPI · Startup Odisha
 
 ---
 
-### What we're building
+### What I'm building
 
-Wooble is a three-sided marketplace — **students**, **companies**, and **domain reviewers** — where hiring runs on demonstrated work, not college brand or credentials.
+A three-sided marketplace — **students**, **companies**, and **domain reviewers** — where credibility comes from scored submissions, not college brand.
 
-| Surface | Repo |
-| --- | --- |
-| Company / hiring | [Wooble-org/wooble-company](https://github.com/Wooble-org/wooble-company) |
-| Candidate engine | [Wooble-org/wooble-engine](https://github.com/Wooble-org/wooble-engine) |
-| Android | [Wooble-org/wooble-android](https://github.com/Wooble-org/wooble-android) |
+| Surface | Repo | Stack |
+| --- | --- | --- |
+| Company / hiring | [wooble-company](https://github.com/Wooble-org/wooble-company) | Next.js, TypeScript |
+| Candidate engine | [wooble-engine](https://github.com/Wooble-org/wooble-engine) | PHP |
+| Android | [wooble-android](https://github.com/Wooble-org/wooble-android) | Kotlin |
 
 ---
 
 [![Website](https://img.shields.io/badge/website-akashjaiswal.com-0052ff?style=flat-square)](https://akashjaiswal.com)
 [![Wooble](https://img.shields.io/badge/Wooble-wooble.org-f59e0b?style=flat-square)](https://wooble.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-jaiswal-wooble)
+
+<sub>From a 3-intern incubation-centre startup to PAN India. Still shipping.</sub>
